@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "ethers": "^5.6.5"
+    "ethers": "^5.6.5",
+    "nvm": "^0.0.4"
   }
 }
